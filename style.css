@@ -1,0 +1,121 @@
+body{ 
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    background-size: cover;
+}
+
+.header-line { 
+    background-image: url("bg avatar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+
+
+.bg-text { 
+    color: white;
+    text-decoration: none;
+    font-size: 45px;
+    font-weight: 45px;
+    margin: 10px;
+
+}
+
+.vidghet {
+    background-size: cover;
+    position: absolute;
+    top: 20px;
+    background-image: url("black.jpg");
+    margin: 10px;
+    
+}
+
+
+.m-left {
+    background-image: url("avatarheader02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 40vh;    
+    
+}  
+
+
+.midl { 
+        background-image: url("avatar-aange.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+}
+    
+
+.m-right {
+    background-image: url("avatarheader01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 40vh;
+    position: absolute;
+    top: 80vh;
+    right: 0px;
+}
+
+.water {
+    background-color: white;
+    height: 240px;
+    width: 240px;
+    position: absolute;
+    top: 90vh;
+    left: 50vh;
+    margin: 5px;
+
+}
+
+.fair {
+    background-size: cover;
+    background-color: white;
+    height: 240px;
+    width: 240px;
+    position: absolute;
+    top: 90vh;
+    left: 110vh;
+    margin: 5px;
+
+}
+
+.earth {
+    background-color: white;
+    height: 240px;
+    width: 240px;
+    position: absolute;
+    top: 90vh;
+    left: 80vh;
+    margin: 5px;
+
+}
+
+.end {
+    margin: 0px;
+    background-image: url("black.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.end-text {
+    color: rgb(69, 69, 70);
+    background-size: cover;
+    position: absolute;
+    top: 180vh;
+    left: 50vh;
+    height: 30px;
+
+}
+
+.telegram {
+    color: rgb(69, 69, 70);
+}
+
+.ssilki {
+    background-size: cover;
+}
